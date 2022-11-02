@@ -5,3 +5,14 @@
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
 }
+html, body{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+main{
+    height: 100vh;
+    position: relative;
+    blackground-color: green;
+}
